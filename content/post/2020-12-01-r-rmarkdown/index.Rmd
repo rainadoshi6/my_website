@@ -2,10 +2,11 @@
 title: 'MAM 2022 Pre-programme Assignment'
 author: "Raina Doshi"
 date: "24-Aug-2021"
+header-includes:
+- \titlegraphic{\centering \includegraphics[width=12cm]{EBC1.jpg}}
+output: 
 output:
   html_document:
-     includes:
-      in_header:  ![](/images/EBC.png)
     theme: flatly
     highlight: zenburn
     toc: yes
