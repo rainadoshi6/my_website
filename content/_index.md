@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: Welcome to Novela, the simplest way to start publishing with Hugo.
+  heading: Hi, I am Raina, welcome to my website!
   maxWidthPX: 652
 seo:
-  image: /images/hero-2.jpg
+  image: /images/img1.jpg
 ---
