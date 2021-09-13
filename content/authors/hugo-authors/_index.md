@@ -6,7 +6,7 @@ bio: |
 featured: true
 social:
 - title: github
-  url: https://github.com
+  url: https://github.com/rainadoshi6
 - title: github
   url: https://github.com
 - title: github
