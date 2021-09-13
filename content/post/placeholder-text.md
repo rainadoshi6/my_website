@@ -4,7 +4,7 @@ authors:
 date: "2019-03-09"
 excerpt: Lorem Ipsum Dolor Si Amet
 hero: /images/hero-4.jpg
-title: Placeholder Text
+title: Key Projects
 ---
 
 Lorem est tota propiore conpellat pectoribus de
