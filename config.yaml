@@ -1,7 +1,7 @@
 theme: "hugo-theme-novela"
-baseURL: "https://example.com"
+baseURL: "https://rainadoshi-portfolio.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Raina Doshi"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
