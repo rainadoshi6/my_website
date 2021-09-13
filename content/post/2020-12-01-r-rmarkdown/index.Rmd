@@ -5,7 +5,7 @@ date: "24-Aug-2021"
 output:
   html_document:
      includes:
-      in_header:  content/post/2020-12-01-r-rmarkdown/images/EBC3.jpg
+      in_header:  ![](/images/EBC.png)
     theme: flatly
     highlight: zenburn
     toc: yes
