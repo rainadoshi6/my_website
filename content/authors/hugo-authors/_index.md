@@ -2,7 +2,7 @@
 avatar: /images/profile-01.jpeg
 bio: |
   Thank you for reading. Feel free to share your thoughts and reach out.
-featured: true
+  featured: true
 social:
   twitter: "https://twitter.com/rainadoshi"
   github: "https://github.com/rainadoshi6"
