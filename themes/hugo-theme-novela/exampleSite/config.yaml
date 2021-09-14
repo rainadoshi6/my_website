@@ -1,14 +1,14 @@
-baseURL: "https://example.com"
+baseURL: "https://rainadoshi-portfolio.netlify.app/"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
+  twitter: "https://twitter.com/rainadoshi"
+  github: "https://github.com/rainadoshi6"
+  instagram: "https://instagram.com/rainadoshi98"
+  linkedin: "https://www.linkedin.com/in/rainadoshi6/"
   dribbble: "#"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: RAINA MAM2022

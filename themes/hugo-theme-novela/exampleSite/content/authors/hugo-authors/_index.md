@@ -1,8 +1,7 @@
 ---
-title: Hugo Authors
+title: RAINA MAM 2022 THIS PLEASE WORK NOW
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  HOPE THIS WORKS!!!!!!!!!!!!!
 avatar: /images/profile-01.jpg
 featured: true
 social:
