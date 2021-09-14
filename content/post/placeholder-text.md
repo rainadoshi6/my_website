@@ -15,6 +15,8 @@ subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
 lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
+RAINA DOSHI
+
 1. Exierant elisi ambit vivere dedere
 2. Duce pollice
 3. Eris modo
