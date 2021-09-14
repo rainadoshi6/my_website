@@ -7,7 +7,7 @@ hero: /images/hero-3.jpg
 title: Emoji Support
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways.
+Emoji can be enabled in a Hugo project in a number of ways. 14th Sept 2021
 <!--more-->
 The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
 

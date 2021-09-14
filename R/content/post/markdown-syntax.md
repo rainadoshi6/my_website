@@ -7,7 +7,7 @@ hero: /images/hero-2.jpg
 title: Markdown Syntax Guide
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. 14 Sept 2021
 <!--more-->
 
 ## Headings
