@@ -3,7 +3,7 @@ authors:
 - Hugo Authors
 date: "2019-03-05"
 excerpt: Guide to emoji usage in Hugo
-hero: /images/hero-3.jpg
+hero: hero-5.jpg
 title: Emoji Support
 ---
 
