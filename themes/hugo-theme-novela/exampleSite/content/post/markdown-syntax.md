@@ -1,7 +1,7 @@
 ---
 title: Markdown Syntax Guide
 date: 2019-03-11
-hero: "/images/img2.jpg"
+hero: "/hero-04.jpg"
 excerpt: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 authors:
   - Hugo Authors
