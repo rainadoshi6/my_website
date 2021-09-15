@@ -3,7 +3,7 @@ baseURL: "https://rainadoshi-portfolio.netlify.app/"
 languageCode: "en-us"
 title: "Raina Doshi"
 pygmentsstyle: 'monokai'
-paginate: 3
+paginate: 7
 social:
   twitter: "https://twitter.com/rainadoshi"
   github: "https://github.com/rainadoshi6"
