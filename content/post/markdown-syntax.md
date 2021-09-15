@@ -3,7 +3,7 @@ authors:
 - Hugo Authors
 date: "2021-09-15"
 excerpt: Get to know me better!
-hero: /images/hero-2.jpg
+hero: /hero-2.jpg
 title: My Journey
 ---
 
